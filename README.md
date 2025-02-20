@@ -1,4 +1,4 @@
-# Task Tracker
+# Github User Activity Tracker
 
 A solution for [Github User Activity](https://roadmap.sh/projects/github-user-activity) project challenge from [roadmap.sh](roadmap.sh) 
 
