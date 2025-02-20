@@ -11,9 +11,12 @@ your local machine for development and testing purposes.
 
 ### Installing
 
-Clone this repository and run the following command:
+Clone this repository
 
     git clone https://github.com/99lash/github-activity-tracker
+
+Change directory
+
     cd github-activity-tracker
 
 ### Usage
